@@ -21,5 +21,6 @@ Examples:
 |Gaurav technologies|Dutch|Old Town Road|
 |Himani technologies|Hindi|New Town Road|
 |Rahul technologies|Urdu|Old Town Road|
+|Ruby technologies|Urdu|Old Town Road|
 
 
