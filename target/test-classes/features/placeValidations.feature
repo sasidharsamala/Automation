@@ -23,5 +23,6 @@ Examples:
 |Rahul technologies|Urdu|Old Town Road|
 |Ruby technologies|Urdu|Old Town Road|
 |Arif technologies|Urdu|Old Town Road|
+|John technologies|Urdu|Old Town Road|
 
 
