@@ -6,11 +6,15 @@
         "before": [
           {
             "result": {
+ HEAD
 
               "duration": 80724994684,
 
               "duration": 69214795261,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 122161243220,
+ master
               "status": "passed"
             },
             "match": {
@@ -28,10 +32,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 12291486590,
 
               "duration": 3266979036,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 1412647294,
+ master
               "status": "passed"
             },
             "line": 5,
@@ -44,10 +52,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 2510923885,
 
               "duration": 3028618706,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 1953718980,
+ master
               "status": "passed"
             },
             "line": 6,
@@ -70,10 +82,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 2786882,
 
               "duration": 2143079,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 11885191,
+ master
               "status": "passed"
             },
             "line": 7,
@@ -92,10 +108,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 116416992,
 
               "duration": 66366030,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 108209840,
+ master
               "status": "passed"
             },
             "line": 8,
@@ -134,10 +154,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 15050925,
 
               "duration": 8518054,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 21357951,
+ master
               "status": "passed"
             },
             "line": 12,
@@ -169,10 +193,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 694823908,
 
               "duration": 1442747678,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 516454143,
+ master
               "status": "passed"
             },
             "line": 13,
@@ -195,10 +223,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 1603398,
 
               "duration": 1166375,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 618384,
+ master
               "status": "passed"
             },
             "line": 14,
@@ -211,10 +243,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 1079361,
 
               "duration": 1511496,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 1977850,
+ master
               "status": "passed"
             },
             "line": 15,
@@ -233,10 +269,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 2593894865,
 
               "duration": 2389516805,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 2069356270,
+ master
               "status": "passed"
             },
             "comments": [
@@ -288,10 +328,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 12727464,
 
               "duration": 23355845,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 22270128,
+ master
               "status": "passed"
             },
             "line": 12,
@@ -323,10 +367,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 574635019,
 
               "duration": 586771963,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 615039681,
+ master
               "status": "passed"
             },
             "line": 13,
@@ -349,10 +397,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 166695,
 
               "duration": 168650,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 829564,
+ master
               "status": "passed"
             },
             "line": 14,
@@ -365,10 +417,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 413071,
 
               "duration": 2052155,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 459511,
+ master
               "status": "passed"
             },
             "line": 15,
@@ -387,10 +443,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 3649294724,
 
               "duration": 1963732887,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 2092923294,
+ master
               "status": "passed"
             },
             "comments": [
@@ -442,10 +502,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 217626628,
 
               "duration": 26465850,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 95193471,
+ master
               "status": "passed"
             },
             "line": 12,
@@ -477,10 +541,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 672281494,
 
               "duration": 633530091,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 662682124,
+ master
               "status": "passed"
             },
             "line": 13,
@@ -503,10 +571,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 187226,
 
               "duration": 168161,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 573899,
+ master
               "status": "passed"
             },
             "line": 14,
@@ -519,10 +591,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 366631,
 
               "duration": 531370,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 1875194,
+ master
               "status": "passed"
             },
             "line": 15,
@@ -541,10 +617,14 @@
           {
             "result": {
  HEAD
+ HEAD
               "duration": 2057765361,
 
               "duration": 2131837969,
  dff92b391658a9785744d050be47f069475210b8
+
+              "duration": 1906802466,
+ master
               "status": "passed"
             },
             "comments": [
@@ -568,6 +648,408 @@
                 {
                   "val": "get",
                   "offset": 73
+                }
+              ],
+              "location": "stepDefinition1.verify_place_id_created_has_with_request(String,String,String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@AddPlace"
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "AddPlace",
+        "description": "",
+        "id": "application-login;addplace;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14949734,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User builds Addplace request \"Ruby technologies\" \"Urdu\" \"Old Town Road\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ruby technologies",
+                  "offset": 30
+                },
+                {
+                  "val": "Urdu",
+                  "offset": 50
+                },
+                {
+                  "val": "Old Town Road",
+                  "offset": 57
+                }
+              ],
+              "location": "stepDefinition1.user_builds_Addplace_request(String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 494939273,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User submits \"AddPlaceAPI\" with \"post\" request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "AddPlaceAPI",
+                  "offset": 14
+                },
+                {
+                  "val": "post",
+                  "offset": 33
+                }
+              ],
+              "location": "stepDefinition1.user_submits_with_request(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 171584,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "A new place is created",
+            "match": {
+              "location": "stepDefinition1.a_new_place_is_created()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 448756,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "statuscode is displayed as 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 27
+                }
+              ],
+              "location": "stepDefinition1.statuscode_is_displayed_as(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2301109914,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 16,
+                "value": "#When User submits \"GetPlaceAPI\" with \"get\" request"
+              }
+            ],
+            "line": 17,
+            "name": "verify place_id created has \"Ruby technologies\" with \"GetPlaceAPI\" and \"get\" request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ruby technologies",
+                  "offset": 29
+                },
+                {
+                  "val": "GetPlaceAPI",
+                  "offset": 54
+                },
+                {
+                  "val": "get",
+                  "offset": 72
+                }
+              ],
+              "location": "stepDefinition1.verify_place_id_created_has_with_request(String,String,String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@AddPlace"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "AddPlace",
+        "description": "",
+        "id": "application-login;addplace;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9838414,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User builds Addplace request \"Arif technologies\" \"Urdu\" \"Old Town Road\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Arif technologies",
+                  "offset": 30
+                },
+                {
+                  "val": "Urdu",
+                  "offset": 50
+                },
+                {
+                  "val": "Old Town Road",
+                  "offset": 57
+                }
+              ],
+              "location": "stepDefinition1.user_builds_Addplace_request(String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 483457377,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User submits \"AddPlaceAPI\" with \"post\" request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "AddPlaceAPI",
+                  "offset": 14
+                },
+                {
+                  "val": "post",
+                  "offset": 33
+                }
+              ],
+              "location": "stepDefinition1.user_submits_with_request(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 153985,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "A new place is created",
+            "match": {
+              "location": "stepDefinition1.a_new_place_is_created()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 908266,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "statuscode is displayed as 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 27
+                }
+              ],
+              "location": "stepDefinition1.statuscode_is_displayed_as(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2001386353,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 16,
+                "value": "#When User submits \"GetPlaceAPI\" with \"get\" request"
+              }
+            ],
+            "line": 17,
+            "name": "verify place_id created has \"Arif technologies\" with \"GetPlaceAPI\" and \"get\" request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Arif technologies",
+                  "offset": 29
+                },
+                {
+                  "val": "GetPlaceAPI",
+                  "offset": 54
+                },
+                {
+                  "val": "get",
+                  "offset": 72
+                }
+              ],
+              "location": "stepDefinition1.verify_place_id_created_has_with_request(String,String,String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@AddPlace"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "AddPlace",
+        "description": "",
+        "id": "application-login;addplace;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6333912,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User builds Addplace request \"John technologies\" \"Urdu\" \"Old Town Road\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "John technologies",
+                  "offset": 30
+                },
+                {
+                  "val": "Urdu",
+                  "offset": 50
+                },
+                {
+                  "val": "Old Town Road",
+                  "offset": 57
+                }
+              ],
+              "location": "stepDefinition1.user_builds_Addplace_request(String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 367489631,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User submits \"AddPlaceAPI\" with \"post\" request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "AddPlaceAPI",
+                  "offset": 14
+                },
+                {
+                  "val": "post",
+                  "offset": 33
+                }
+              ],
+              "location": "stepDefinition1.user_submits_with_request(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 172561,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "A new place is created",
+            "match": {
+              "location": "stepDefinition1.a_new_place_is_created()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 409648,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "statuscode is displayed as 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 27
+                }
+              ],
+              "location": "stepDefinition1.statuscode_is_displayed_as(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2007531573,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 16,
+                "value": "#When User submits \"GetPlaceAPI\" with \"get\" request"
+              }
+            ],
+            "line": 17,
+            "name": "verify place_id created has \"John technologies\" with \"GetPlaceAPI\" and \"get\" request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "John technologies",
+                  "offset": 29
+                },
+                {
+                  "val": "GetPlaceAPI",
+                  "offset": 54
+                },
+                {
+                  "val": "get",
+                  "offset": 72
                 }
               ],
               "location": "stepDefinition1.verify_place_id_created_has_with_request(String,String,String)"
